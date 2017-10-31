@@ -3711,11 +3711,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\nobody\\source\\repos\\EssentialTraining\\EssentialTraining\\EssentialTraining.csproj",
+      "projectUniqueName": "C:\\Users\\nobody\\Desktop\\Exercise Files\\CH06\\06-01\\done\\EssentialTraining\\EssentialTraining\\EssentialTraining.csproj",
       "projectName": "EssentialTraining",
-      "projectPath": "C:\\Users\\nobody\\source\\repos\\EssentialTraining\\EssentialTraining\\EssentialTraining.csproj",
+      "projectPath": "C:\\Users\\nobody\\Desktop\\Exercise Files\\CH06\\06-01\\done\\EssentialTraining\\EssentialTraining\\EssentialTraining.csproj",
       "packagesPath": "C:\\Users\\nobody\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nobody\\source\\repos\\EssentialTraining\\EssentialTraining\\obj\\",
+      "outputPath": "C:\\Users\\nobody\\Desktop\\Exercise Files\\CH06\\06-01\\done\\EssentialTraining\\EssentialTraining\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nobody\\AppData\\Roaming\\NuGet\\NuGet.Config",
