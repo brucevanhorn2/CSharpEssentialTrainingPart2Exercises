@@ -1,0 +1,10 @@
+C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.config
+C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.exe.config
+C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.exe
+C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.pdb
+C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.dll
+C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.xml
+C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.csprojResolveAssemblyReference.cache
+C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.exe
+C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.pdb
