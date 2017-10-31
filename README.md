@@ -1,6 +1,6 @@
-# CSharpEssentialTrainingPart1
+# CSharpEssentialTrainingPart2
 
-Exercise files for LinkedIn Course C# Essential Training Part 1
+Exercise files for LinkedIn Course C# Essential Training Part 2
 
 Bruce Van Horn II
 
