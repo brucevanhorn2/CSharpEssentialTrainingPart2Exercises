@@ -1,7 +1,0 @@
-C:\Users\nobody\source\repos\EssentialTraining\EssentialTraining\bin\Debug\netstandard1.4\EssentialTraining.deps.json
-C:\Users\nobody\source\repos\EssentialTraining\EssentialTraining\bin\Debug\netstandard1.4\EssentialTraining.dll
-C:\Users\nobody\source\repos\EssentialTraining\EssentialTraining\bin\Debug\netstandard1.4\EssentialTraining.pdb
-C:\Users\nobody\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.csproj.CoreCompileInputs.cache
-C:\Users\nobody\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.AssemblyInfo.cs
-C:\Users\nobody\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.dll
-C:\Users\nobody\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard1.4\EssentialTraining.pdb

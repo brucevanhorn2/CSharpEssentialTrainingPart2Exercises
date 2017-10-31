@@ -1,2 +1,0 @@
-C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.csprojResolveAssemblyReference.cache
-C:\Users\nobody\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.csproj.CoreCompileInputs.cache
