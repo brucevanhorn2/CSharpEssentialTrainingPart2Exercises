@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EssentialTraining
 {
-    public class ProgrammingLoops
+    class ProgrammingLoops
     {
         public int ForLoop()
         {
